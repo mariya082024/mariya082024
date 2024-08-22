@@ -10,6 +10,7 @@
 - Protecting from accidental deletion
 - testing testing
 - Testing again
+- Now testing CI/CD
 
 <!---
 mariya082024/mariya082024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
